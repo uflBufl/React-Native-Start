@@ -3,7 +3,7 @@
 <h1>Build custom React step by step.</h1>
 <h2>Setup</h2>
 <li>1. Clone repo</li>
-`git clone https://github.com/uflBufl/React-Native-Start`
+git clone https://github.com/uflBufl/React-Native-Start
 
 <li>2. Make sure you have Node.js installed</li>
 
