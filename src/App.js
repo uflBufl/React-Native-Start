@@ -11,8 +11,8 @@ import Profile from "./screens/Profile/Profile.js";
 // import LogIn from "../LogIn.js";
 import LogIn from "./screens/Login/LogIn.js";
 
-// import 'es6-symbol/implement';
-// import {observable} from 'mobx';
+import 'es6-symbol/implement';
+import {observable} from 'mobx';
 // import {observer} from 'mobx-react/native';
 
 // class ImageBackground extends React.Component<$FlowFixMeProps> {
